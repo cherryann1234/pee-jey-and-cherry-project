@@ -2,7 +2,6 @@ Narrative Report on the Implementation of the Book Class
 
 Prepared by:Cherry ann Javier, Jomarie Dangaran
 
-
 As part of the Object-Oriented Programming course, this report documents the activity of implementing the `Book` class in PHP. The task was designed to strengthen understanding of OOP principles by applying theoretical concepts to a practical programming challenge.
 
 Introduction
